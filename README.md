@@ -26,19 +26,19 @@ The dataset was checked for missing values using Pandas functions. Missing value
 
 Duplicate records were identified and removed from the dataset to ensure accuracy and consistency in future analysis.
 
-"Duplicate Records Removal" (Duplicate_Removal.png)
+![Dataset_Overview](Duplicate_Removal.png)
 
 4. Data Type Conversion
 
 The data types of the dataset columns were verified and converted where necessary. This ensured that dates, numerical values, and text fields were stored in the correct format.
 
-"Data Type Conversion" (Data_Type_Conversion.png)
+![ Dataset_Overview](Data_Type_Conversion.png)
 
 5. Data Validation and Final Output
 
 After completing all cleaning operations, the dataset was validated to confirm that the changes were successfully applied. The cleaned dataset was then exported as a new CSV file.
 
-"Cleaned Dataset Output" (Cleaned_Dataset_Output.png)
+![Dataset_Overview](Cleaned_Dataset_Output.png)
 
 Tools Used
 
