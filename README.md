@@ -20,7 +20,7 @@ The dataset was loaded into Google Colab using the Pandas library. The first few
 
 The dataset was checked for missing values using Pandas functions. Missing values were identified and handled appropriately to improve data quality.
 
-"Missing Values Analysis" (Missing_Values_Analysis.png)
+![Dataset Overview](Missing_Values_Analysis.png)
 
 3. Duplicate Record Removal
 
