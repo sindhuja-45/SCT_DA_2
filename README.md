@@ -14,7 +14,7 @@ Global Superstore Dataset
 
 The dataset was loaded into Google Colab using the Pandas library. The first few rows were examined to understand the structure of the dataset and its columns.
 
-"Dataset Overview" (Dataset_Overview.png)
+![Dataset_Overview](Dataset_Overview.png)
 
 2. Missing Value Handling
 
