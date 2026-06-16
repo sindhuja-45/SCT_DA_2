@@ -26,7 +26,7 @@ The dataset was checked for missing values using Pandas functions. Missing value
 
 Duplicate records were identified and removed from the dataset to ensure accuracy and consistency in future analysis.
 
-![Dataset_Overview](Duplicate_Removal.png)
+![Dataset_Overview](Duplicate_Records_Removal.png)
 
 4. Data Type Conversion
 
@@ -38,7 +38,7 @@ The data types of the dataset columns were verified and converted where necessar
 
 After completing all cleaning operations, the dataset was validated to confirm that the changes were successfully applied. The cleaned dataset was then exported as a new CSV file.
 
-![Dataset_Overview](Cleaned_Dataset_Output.png)
+![Dataset_Overview](Cleaned_dataset_output.png)
 
 Tools Used
 
